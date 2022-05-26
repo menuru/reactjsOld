@@ -1,0 +1,17 @@
+.navbar{
+    font-size: 20px;
+}
+
+.navbar-brand{
+    color: white;
+    font-family: Brush Script MT;
+    width: 150;
+}
+
+a.nav-link{
+    color: white;
+}
+
+.navbar-brand:hover{
+    color: white;
+}
